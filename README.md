@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src='https://media.giphy.com/media/Q2T7BXRiDFPJcPoA7Z/giphy.gif' width="100"/>
+  <iframe src="https://giphy.com/embed/Q2T7BXRiDFPJcPoA7Z" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/bringglobal-work-computer-laptop-Q2T7BXRiDFPJcPoA7Z">via GIPHY</a></p>
 </div>
 
 
