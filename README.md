@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejo</h1>
 <h3 align="center">A beginner Front-end dev from Spain</h3>
 
-- 🌱 I’m currently learning **UI/UX, React-native.**
+<p align="center">- 🌱 I’m currently learning **UI/UX, React-native.**</p>
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alejoacle/](https://www.linkedin.com/in/alejoacle/)
 
