@@ -6,7 +6,10 @@
 <img src="https://komarev.com/ghpvc/?username=AlejoAcle&style=flat-square&color=blue" alt=""/>
  </div>
 
-<h1 align="center">Hi 👋, I'm Alejo</h1>
+<h1>
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>  , I'm Alejo</h1>
 <h3 align="center">A beginner Front-end dev from Spain</h3>
 
 <p align="center"> - 🌱 I’m currently learning UI/UX, React-native. </p>
