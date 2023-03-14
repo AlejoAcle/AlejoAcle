@@ -3,7 +3,7 @@
 
 <p align="center">- 🌱 I’m currently learning UI/UX, React-native. </p>
 
-<p align="center">- 📝 I regularly write articles on [https://www.linkedin.com/in/alejoacle/](https://www.linkedin.com/in/alejoacle/)</p>
+<p align="center">- 📝 I regularly write articles on https://www.linkedin.com/in/alejoacle/ .</p>
 
 <p align="center">- 📫 How to reach me **mr.kaelego@gmail.com**</p>
 
