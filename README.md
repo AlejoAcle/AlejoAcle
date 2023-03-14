@@ -26,7 +26,7 @@
 
 
 <div align="center">
-### :fire: My Stats :
+ :fire: My Stats :
 </div>
 <div>
 </div>
