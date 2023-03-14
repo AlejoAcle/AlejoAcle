@@ -27,5 +27,7 @@
 ---
 <div align="center">
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlejoAcle&theme=highcontrast&hide_border=true&fire=EB2E2E&border=EB5454&ring=84EBC8)](https://git.io/streak-stats)
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlejoAcle&theme=highcontrast&hide_border=true&fire=EB2E2E&border=EB5454&ring=84EBC8)](https://git.io/streak-stats)
+
