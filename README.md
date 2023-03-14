@@ -26,7 +26,7 @@
 
 
 <div align="center">
- :fire: My Stats :
+  <h3 align="center"> :fire: My Stats : ></h3>
 </div>
 <div>
 </div>
