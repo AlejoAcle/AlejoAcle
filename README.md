@@ -9,7 +9,7 @@
 <h1 align="center"> Hi 👋, I'm Alejo</h1>
 <h3 align="center">A beginner Front-end dev from Spain</h3>
 
-<p align="center"> - 🌱 I’m currently learning UI/UX, React-native. </p>
+<p align="center"> - 🌱 I’m currently learning React and React native, frameworks and UX/UI. </p>
 
 <p align="center"> - 📝 I regularly write articles on https://www.linkedin.com/in/alejoacle/ .</p>
 
