@@ -4,17 +4,17 @@
 </div>
 
 
-
-<!-- <div id="header" align="center">
+<!-- 
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AlejoAcle&style=flat-square&color=blue" alt=""/>
  </div>
-
+<!-- 
 <h1 align="center"> Hi 👋, I'm Alejo</h1> -->
-<h3 align="center">A beginner Front-end dev from Spain</h3>
+<h3 align="center">A beginner Front-end dev from Spain</h3> -->
 
 <p align="center"> - 🌱 I’m currently learning React and React native, frameworks and UX/UI. </p>
 
