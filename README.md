@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alejandro Acosta 👋</h1>
+<h1 align="center">Hi, I'm Alejo 👋</h1>
 
 <p align="center">
   <b>React Native Developer · Frontend · UX/UI</b><br/>
@@ -14,7 +14,7 @@
 
 ### About me
 
-- 📱 **React Native Developer at Digitality** since 2023, building cross-platform mobile apps end to end.
+- 📱 **React Native Developer** since 2023, building cross-platform mobile apps end to end.
 - 🧩 I enjoy crafting **reusable UI components and design systems** (Gluestack UI, NativeBase) that keep apps consistent and fast to build.
 - 🔌 Day to day I integrate **REST APIs**, manage app state and turn designs into polished, responsive interfaces.
 - 🎨 Background in **UX/UI design** — Design Thinking, prototyping and interface design — so I speak both "designer" and "developer".
@@ -47,14 +47,3 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
 <img src="https://img.shields.io/badge/Design%20Thinking-555?style=flat-square" alt="Design Thinking"/>
-
-### Featured
-
-| Project | What it is |
-| --- | --- |
-| [**react-native-loading-dots**](https://github.com/AlejoAcle/react-native-loading-dots) | Dependency-free animated loading indicator for React Native — customizable color, size and spacing, iOS & Android. |
-
-### Let's talk
-
-I'm always happy to chat about mobile development, design systems or a good UI challenge.
-The best way to reach me is on **[LinkedIn](https://www.linkedin.com/in/alejoacle/)**.
